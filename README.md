@@ -75,7 +75,17 @@ cat ~/maint_logs/backup.log
 ```
 ---
 ## Example Output:
-
+1. Main Controller
+![Main Controller Terminal](images/main_controller.png)
+2. Back-up Terminal & Directory
+![Backup Terminal](images/backup_terminal.png)
+![Backup Directory](images/backup_directory.png)
+3. Monitor Logs Terminal
+![Monitor Logs Terminal](images/monitor_logs_terminal.png)
+4. Update System Terminal
+![Update System Terminal](images/update_system_terminal.png)
+5. Logs Directory
+![Logs Directory](images/logs_directory.png)
 ---
 ## Error Handling and Logging Architecture
 - Each script starts with:
