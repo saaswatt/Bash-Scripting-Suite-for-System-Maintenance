@@ -42,6 +42,7 @@ System_Maintenance_Suite/
 ├── update.sh
 ├── log_monitor.sh
 ├── main_controller.sh
+├── images/
 └── maint_logs/
     ├── backup.log
     ├── update.log
